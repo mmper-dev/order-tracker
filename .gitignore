@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 data/
 .env
+
+# Editor and OS
+.vscode/
+.idea/
+Thumbs.db
